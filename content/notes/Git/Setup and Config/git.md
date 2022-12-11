@@ -1,5 +1,5 @@
 ---
-title: "Git"
+title: "git"
 weight: 2
 # bookFlatSection: false
 # bookToc: true
