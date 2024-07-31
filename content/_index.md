@@ -3,7 +3,12 @@ title: "The Techbook"
 bookToc: false
 ---
 
-# Welcome to Techbook
+<center>
+
+<img src="./the-techbook-high-resolution-logo-transparent.png" width="400">
+
+</center>
+<br>
 
 Welcome to **Techbook**, your go-to resource for in-depth information on data structures, algorithms, and various computer science topics. Our goal is to provide clear, concise, and comprehensive explanations to help you master the fundamentals and advanced concepts of computer science.
 
